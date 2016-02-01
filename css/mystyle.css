@@ -41,9 +41,9 @@ main{
 
 .topNav {
     background-image: url("bg.png");
+     background-position: center; 
+       background-size: 480px 560px;
     min-height: 320px;
-    margin-top:-6px;
-    z-index: -1000!important;
 }
 
 .navIcons {
